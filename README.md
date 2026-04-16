@@ -567,7 +567,5 @@ This project is released under the MIT License.
 
 Ekene Okonkwo
 
-Email: ekenwalter17@yahoo.com
-
 github: https://github.com/ken1711
                            
